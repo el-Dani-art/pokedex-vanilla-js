@@ -26,5 +26,5 @@ A modern, responsive Pokedex built with Vanilla HTML5, CSS3, and JavaScript. Thi
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/pokedex-vanilla.git](https://github.com/el_Dani_Art/pokedex-vanilla.git)
+   git clone [https://github.com/YOUR_USERNAME/pokedex-vanilla.git](https://github.com/el-Dani-art/pokedex-vanilla.git)
    ```
